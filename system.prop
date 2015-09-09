@@ -179,3 +179,6 @@ ro.device.gpu=Qualcomm Adreno 302
 ro.device.rear_cam=8 MP 2592Ñ5x1944 pixel
 ro.device.front_cam=N/A
 ro.device.screen_res=540x960 pixels (256 ppi)
+
+# AICP Device Maintainer
+ro.aicp.maintainer=TheStrix
