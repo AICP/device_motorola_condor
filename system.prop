@@ -176,7 +176,7 @@ qemu.hw.mainkeys=0
 ro.device.chipset=Qualcomm Snapdragon 200 MSM8610
 ro.device.cpu=1.2GHz dual-core Cortex-A7
 ro.device.gpu=Qualcomm Adreno 302
-ro.device.rear_cam=8 MP 2592Ñ5x1944 pixel
+ro.device.rear_cam=8 MP 2592x1944 pixels
 ro.device.front_cam=N/A
 ro.device.screen_res=540x960 pixels (256 ppi)
 
