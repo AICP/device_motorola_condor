@@ -1,0 +1,6 @@
+# Hardware Info
+ro.device.chipset=Qualcomm Snapdragon 200
+ro.device.cpu=Dual-core 1.2 GHz Cortex-A7
+ro.device.gpu= 	Adreno 302
+ro.device.rear_cam=5 MP
+ro.device.screen_res=540 x 960
